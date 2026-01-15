@@ -22,10 +22,16 @@
 
 <h2 align="center">🌱 What I'm currently up to</h2>
 
-- 🔭 Building **ChatAI** — a real-time MERN chat app with AI integration  
-- 📚 Strengthening **DSA, OS, CN & System Design**  
-- 💬 Ask me about **Java, C++, MERN Stack, Debugging**  
-- ⚡ Fun fact: I enjoy competitive programming and system-level problem solving
+<div align="center">
+  <ul style="list-style: none; padding: 0; margin: 0;">
+    🔭 Building <b>ChatAI</b> — a real-time MERN chat app with AI integration<br>
+    📚 Strengthening <b>DSA, OS, CN & System Design</b><br>
+    💬 Ask me about <b>Java, C++, MERN Stack, Debugging</b><br>
+    ⚡ Fun fact: I enjoy competitive programming and system-level problem solving
+  </ul>
+</div>
+
+
 
 ---
 
@@ -42,6 +48,34 @@
 
 ---
 
+<h2 align="center">💻 Coding Profiles</h2>
+
+<div align="center">
+  <a href="https://leetcode.com/u/Gopal_Krishna6114/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-DSA%20Practice-orange?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://www.hackerrank.com/profile/gopalkrishna06114" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-C++%20%7C%20DSA-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/gopalkrishna06114" target="_blank">
+    <img src="https://img.shields.io/badge/Problem%20Solving-⭐%20⭐%20⭐%20⭐%20⭐-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/gopalkrishna06114" target="_blank">
+    <img src="https://img.shields.io/badge/SQL-⭐%20⭐%20⭐%20⭐%20⭐-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/gopalkrishna06114" target="_blank">
+    <img src="https://img.shields.io/badge/C++-⭐%20⭐%20⭐%20⭐%20⭐-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+</div>
+
+
+---
+
 <h2 align="center">🚀 Tech Stack</h2>
 
 <table align="center">
@@ -53,6 +87,7 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=html" width="40"/><br>HTML</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=css" width="40"/><br>CSS</td>
   </tr>
+
   <tr>
     <td align="center"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="40"/><br>React</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="40"/><br>Node.js</td>
@@ -61,6 +96,7 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="40"/><br>MySQL</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=git" width="40"/><br>Git</td>
   </tr>
+
   <tr>
     <td align="center"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="40"/><br>GitHub</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="40"/><br>Postman</td>
@@ -69,15 +105,24 @@
     <td align="center"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="40"/><br>REST API</td>
     <td align="center"><img src="https://techstack-generator.vercel.app/redux-icon.svg" width="40"/><br>Redux</td>
   </tr>
+
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=eclipse" width="40"/><br>Eclipse</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=idea" width="40"/><br>IntelliJ IDEA</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="40"/><br>Bootstrap</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=spring" width="40"/><br>Spring Boot</td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
 </table>
+
 
 ---
 
 <h2 align="center">🐾 Profile Visitors</h2>
 
 <p align="center">
-  
-  ![:gopalkrishna06114](https://count.getloli.com/get/@:gopalkrishna06114) 
+  <img src="https://count.getloli.com/get/@:gopalkrishna06114" alt="Profile Visitors" />
 </p>
 
 ---
@@ -103,25 +148,32 @@
 
 ---
 <h2 align="center">🐍 Contributions</h2>
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/gopalkrishna06114/gopalkrishna06114/output/github-snake-dark.svg">
-  <img
-    src="https://raw.githubusercontent.com/gopalkrishna06114/gopalkrishna06114/output/github-snake.svg"
-    alt="GitHub contribution snake"
-  >
-</picture>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/gopalkrishna06114/gopalkrishna06114/output/github-snake-dark.svg">
+    <img
+      src="https://raw.githubusercontent.com/gopalkrishna06114/gopalkrishna06114/output/github-snake.svg"
+      alt="GitHub contribution snake"
+      style="max-width: 100%;"
+    >
+  </picture>
+</p>
+
 
 
 ---
 
-<h2 align="center">⚡ GitHub Stats</h2>
-
 <p align="center">
-  
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gopalkrishna06114&theme=github_dark)
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gopalkrishna06114&theme=github_dark"
+    alt="GitHub Profile Summary"
+    width="850"
+  />
 </p>
 
 ---
-
-⭐️ Feel free to explore my repositories and drop a ⭐️ if you find something useful!
+<p align="center">
+⭐️ Feel free to explore my repositories and drop a <br> ⭐️ if you find something useful!
+</p>
