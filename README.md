@@ -12,7 +12,7 @@ I enjoy debugging complex problems, building scalable systems, and turning ideas
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;DSA+%7C+Backend+%7C+MERN+Stack" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;DSA+%7C+Backend+%7C+MERN+Stack+%7c+Springboot" />
 </p>
 
 ---
