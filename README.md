@@ -81,16 +81,23 @@ I enjoy debugging complex problems, building scalable systems, and turning ideas
   <tr>
     <td align="center">
       <a href="https://leetcode.com/Gopal_Krishna6114/">
-        <img src="https://leetcard.jacoblin.cool/Gopal_Krishna6114?theme=dark&font=ovo&ext=contest" width="375"/>
+        <img
+          src="https://leetcard.jacoblin.cool/Gopal_Krishna6114?theme=dark&font=ovo&ext=contest"
+          width="375"
+        />
       </a>
     </td>
     <td align="center">
       <a href="https://codeforces.com/profile/Gopal_Krishna_11">
-        <img src="https://cf-stats.vercel.app/api?username=Gopal_Krishna_11&theme=dark" width="375"/>
+        <img
+          src="https://github-readme-codeforces-stats.vercel.app/api/card?username=Gopal_Krishna_11&theme=github_dark"
+          width="375"
+        />
       </a>
     </td>
   </tr>
 </table>
+
 
 ---
 
