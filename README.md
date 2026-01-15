@@ -1,23 +1,26 @@
-# Hi there 👋, I'm Gopal Krishna
+<h2 align="center">Hi there 👋, I'm Gopal Krishna</h2>
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
 </p>
 
-🎓 I’m a **B.Tech Computer Science (Cyber Security)** student at **Pranveer Singh Institute of Technology, Kanpur**.  
-I’m deeply interested in **Software Engineering, Backend & Full-Stack Development**, and **Data Structures & Algorithms**.  
-I enjoy debugging complex problems, building scalable systems, and turning ideas into reliable software solutions.
+<p align="center">
+🎓 BTech CSE (Cyber Security) @ PSIT Kanpur <br/>
+💻 Web Development • MERN Stack • Spring Boot • DSA
+</p>
 
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;DSA+%7C+Backend+%7C+MERN+Stack+%7c+Springboot" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;Backend+Development+%7C+MERN+Stack+%7C+Spring+Boot;Data+Structures+%26+Algorithms;Building+Scalable+and+Secure+Systems" 
+  />
 </p>
 
 ---
 
-## 🌱 What I'm currently up to
+<h2 align="center">🌱 What I'm currently up to</h2>
 
 - 🔭 Building **ChatAI** — a real-time MERN chat app with AI integration  
 - 📚 Strengthening **DSA, OS, CN & System Design**  
@@ -26,7 +29,7 @@ I enjoy debugging complex problems, building scalable systems, and turning ideas
 
 ---
 
-## 🌐 Connect with me
+<h2 align="center">🌐 Connect with me</h2>
 
 <p align="center">
   <a href="https://linkedin.com/in/gopal-krishna-2333a7351" target="_blank">
@@ -39,7 +42,7 @@ I enjoy debugging complex problems, building scalable systems, and turning ideas
 
 ---
 
-## 🚀 Tech Stack
+<h2 align="center">🚀 Tech Stack</h2>
 
 <table align="center">
   <tr>
@@ -70,12 +73,16 @@ I enjoy debugging complex problems, building scalable systems, and turning ideas
 
 ---
 
-## 🐾 Profile Visitors
-![:gopalkrishna06114](https://count.getloli.com/get/@:gopalkrishna06114)
+<h2 align="center">🐾 Profile Visitors</h2>
+
+<p align="center">
+  
+  ![:gopalkrishna06114](https://count.getloli.com/get/@:gopalkrishna06114) 
+</p>
 
 ---
 
-## 📈 Competitive Programming Journey
+<h2 align="center">📈 Competitive Programming Journey</h2> 
 
 <table align="center">
   <tr>
@@ -88,19 +95,14 @@ I enjoy debugging complex problems, building scalable systems, and turning ideas
       </a>
     </td>
     <td align="center">
-      <a href="https://codeforces.com/profile/Gopal_Krishna_11">
-        <img
-          src="https://github-readme-codeforces-stats.vercel.app/api/card?username=Gopal_Krishna_11&theme=github_dark"
-          width="375"
-        />
-      </a>
+      <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Gopal_Krishna_11" width="380"/>
     </td>
   </tr>
 </table>
 
 
 ---
-
+<h2 align="center">🐍 Contributions</h2>
 <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/gopalkrishna06114/gopalkrishna06114/output/github-snake-dark.svg">
@@ -113,8 +115,12 @@ I enjoy debugging complex problems, building scalable systems, and turning ideas
 
 ---
 
-## ⚡ GitHub Stats
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gopalkrishna06114&theme=github_dark)
+<h2 align="center">⚡ GitHub Stats</h2>
+
+<p align="center">
+  
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gopalkrishna06114&theme=github_dark)
+</p>
 
 ---
 
