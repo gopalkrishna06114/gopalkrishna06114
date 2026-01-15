@@ -95,7 +95,7 @@ I enjoy debugging complex problems, building scalable systems, and turning ideas
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/theadarsh1m/theadarsh1m/output/github-snake-dark.svg" alt="snake gif" />
+  <img src="https://raw.githubusercontent.com/gopalkrishna06114/gopalkrishna06114/output/github-snake-dark.svg" />
 </div>
 
 ---
